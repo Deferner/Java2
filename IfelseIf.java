@@ -1,6 +1,6 @@
 public class IfelseIf {
 	public static void main(String[] args ){
-		int x = 60;
+		int x = 71;
 		
 		if (x <= 49) {
 			System.out.println("F");
