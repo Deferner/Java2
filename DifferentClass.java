@@ -6,12 +6,12 @@ public class DifferentClass {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
 		
 		//Input first digit
-		System.out.print("Input first digit : ");
+		System.out.print("Input first digit1 : ");
 		inputNum1 = stdin.readLine();
 		num1 = Integer.parseInt(inputNum1);
 		
 		//Input second digit
-		System.out.print("Input second digit : ");
+		System.out.print("Input second digit2 : ");
 		inputNum2 = stdin.readLine();
 		num2 = Integer.parseInt(inputNum2);
 		
